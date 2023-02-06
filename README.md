@@ -1,3 +1,3 @@
 ## Technical Documentation Page
 
-This will be a documentation page soon, in process.
+This is a documentation page, made with HTML and CSS, with a responsive design for both, desktop and mobile.
